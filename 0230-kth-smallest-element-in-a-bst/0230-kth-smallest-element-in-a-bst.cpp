@@ -26,7 +26,7 @@ public:
 
 
     int kthSmallest(TreeNode* root, int k) {
-        int ans = 0; 
+        int ans ; 
           ksum(root,ans,k); 
          return ans;
     }
