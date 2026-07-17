@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uabhay09/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/uabhay09/Leetcode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uabhay09/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uabhay09/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/uabhay09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/uabhay09/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/uabhay09/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
